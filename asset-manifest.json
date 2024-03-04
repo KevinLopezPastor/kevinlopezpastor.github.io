@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.6c6311e3.css",
-    "main.js": "/static/js/main.a81e64c5.js",
+    "main.js": "/static/js/main.f4df5ed4.js",
     "static/js/787.4b24f717.chunk.js": "/static/js/787.4b24f717.chunk.js",
     "static/media/FireflIA.png": "/static/media/FireflIA.23e8b5a1f7de87f03d05.png",
     "static/media/hashirshoaeb.png": "/static/media/hashirshoaeb.23e8b5a1f7de87f03d05.png",
+    "static/media/Machine-Learning-Projects.png": "/static/media/Machine-Learning-Projects.529800e09e9381365922.png",
     "static/media/f2.png": "/static/media/f2.529800e09e9381365922.png",
     "static/media/home.png": "/static/media/home.529800e09e9381365922.png",
     "static/media/f1.png": "/static/media/f1.6b9fe58cc9366e0219bf.png",
@@ -15,11 +16,11 @@
     "static/media/nicmaish1.png": "/static/media/nicmaish1.4ddab3864857bf9913ae.png",
     "index.html": "/index.html",
     "main.6c6311e3.css.map": "/static/css/main.6c6311e3.css.map",
-    "main.a81e64c5.js.map": "/static/js/main.a81e64c5.js.map",
+    "main.f4df5ed4.js.map": "/static/js/main.f4df5ed4.js.map",
     "787.4b24f717.chunk.js.map": "/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6c6311e3.css",
-    "static/js/main.a81e64c5.js"
+    "static/js/main.f4df5ed4.js"
   ]
 }

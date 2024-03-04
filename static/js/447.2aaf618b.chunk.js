@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdevelopers_portfolio=self.webpackChunkdevelopers_portfolio||[]).push([[447],{447:function(e,o,s){e.exports=s.p+"static/media/Data_Analysis_Project.80b4fd75a1417053d3ee.png"}}]);

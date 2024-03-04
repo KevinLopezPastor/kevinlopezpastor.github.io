@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdevelopers_portfolio=self.webpackChunkdevelopers_portfolio||[]).push([[854],{9854:function(e,o,p){e.exports=p.p+"static/media/fotokevin.80b4fd75a1417053d3ee.png"}}]);
